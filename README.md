@@ -1,4 +1,4 @@
-# Cloud-Computing
+# Cloud-Computing.
 
 
 Cloud computing is the on-demand delivery of computing power, databases, storage, applications & other IT resources.
